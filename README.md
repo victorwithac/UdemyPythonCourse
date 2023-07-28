@@ -6,3 +6,5 @@ Curso de Python:
 
 Nova mudança.
 Segunda mudança.
+Terceira mudança.
+Quarta mudança.
