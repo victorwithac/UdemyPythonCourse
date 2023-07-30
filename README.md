@@ -33,6 +33,7 @@ Ao terminar esse curso, você poderá conseguir sua sonhada vaga no Mercado de t
 Venha aprender a linguagem que mais cresce neste ano agora!
 
 What you’ll learn
+
 Python 3 básico (com lógica de programação)
 
 Python 3 intermediário (com programação procedural e funcional)
