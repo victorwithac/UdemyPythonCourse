@@ -45,3 +45,4 @@ for lista in lista_de_listas_de_inteiros:
         lista,
         encontra_primeiro_duplicado(lista)
     )
+
