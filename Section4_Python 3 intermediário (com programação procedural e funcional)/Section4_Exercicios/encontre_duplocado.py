@@ -27,6 +27,29 @@ lista_de_listas_de_inteiros = [
     [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
 ]
 
+# def encontra_primeiro_duplicado(x):
+#     numeros_checados = set()
+#     primero_duplicado = -1
+#
+#     for numero in x:
+#         if numero in numeros_checados:
+#             primero_duplicado = numero
+#             break
+#         numeros_checados.add(numero)
+#     return primero_duplicado
+#     print()
+#     print()
+#
+# for lista in lista_de_listas_de_inteiros:
+#     print(
+#         lista,
+#         encontra_primeiro_duplicado(lista)
+#     )
+
+
+
+
+
 def encontra_primeiro_duplicado(x):
     numeros_checados = set()
     primero_duplicado = -1
@@ -37,12 +60,10 @@ def encontra_primeiro_duplicado(x):
             break
         numeros_checados.add(numero)
     return primero_duplicado
-    print()
-    print()
+
+
+
+
 
 for lista in lista_de_listas_de_inteiros:
-    print(
-        lista,
-        encontra_primeiro_duplicado(lista)
-    )
-
+    print(lista, encontra_primeiro_duplicado(lista))

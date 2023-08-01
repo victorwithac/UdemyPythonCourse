@@ -13,3 +13,4 @@ lista.sort(key=ordena)
 
 for item in lista:
     print(item)
+     
