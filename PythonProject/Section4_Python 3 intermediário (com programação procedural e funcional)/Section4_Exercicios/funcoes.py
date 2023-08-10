@@ -23,6 +23,7 @@ def multiplicar(*args):
         total *= numero
     return total
 
+#exercicio
 def par_ou_impar(x):
     if x % 2 == 0:
         return 'É Par'
