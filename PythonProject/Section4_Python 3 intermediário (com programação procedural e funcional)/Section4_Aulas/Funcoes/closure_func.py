@@ -8,8 +8,9 @@ def maior(saudacao):
 falar_bom_dia = maior('Bom dia')
 falar_boa_noite = maior('Boa noite')
 
-print(falar_bom_dia('victor'))
-print(falar_boa_noite('victor'))
+print(falar_bom_dia('Victor'))
+print(falar_boa_noite('Victor'))
+
 
 for nome in ['Maria', 'José', 'João']:
     print(falar_bom_dia(nome))
