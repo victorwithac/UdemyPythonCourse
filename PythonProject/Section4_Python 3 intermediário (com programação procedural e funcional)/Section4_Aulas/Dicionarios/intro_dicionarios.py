@@ -19,14 +19,15 @@ pessoas = {'alguma coisa':
 
 }
 
-print(pessoas['nome'][2])
-print(pessoas['sobrenome'][2])
+# print(pessoas['nome'][2])
+# print(pessoas['sobrenome'][2])
 
-print(pessoas['alguma coisa']['nome'][1])
+print(pessoas['alguma coisa'][0]['nome'][1])
 print(pessoas['alguma coisa'][1]['sobrenome'][1])
-
+del pessoas['alguma coisa'][1]['sobrenome'][1]
+print(pessoas)
 
 # dicionario > chave > lista > 2 dicionarios
 
-for chave in pessoas:
-    print(chave, pessoas[chave][1])
+# for chave in pessoas:
+#     print(chave, pessoas[chave][1])
