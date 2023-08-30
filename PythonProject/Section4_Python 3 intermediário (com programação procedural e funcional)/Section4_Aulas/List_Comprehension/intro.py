@@ -13,3 +13,5 @@ for numero in range(11):
 lista = [numero + 1 for numero in range(10)]
 print(lista)
 
+
+

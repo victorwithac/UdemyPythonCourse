@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fe6056f-a103-436a-b2f9-d41622d9e6cd" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda/mapeamento_de_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension/intro.py" afterDir="false" />
+    <list default="true" id="3fe6056f-a103-436a-b2f9-d41622d9e6cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension/filtro_dados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda/empac_desempac_args_kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda/empac_desempac_args_kwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda/funcoes_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda/funcoes_lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda/mapeamento_de_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension/mapeamento_de_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension/intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +71,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\PythonProject\Section4_Python 3 intermediário (com programação procedural e funcional)\Section4_Aulas\List_Comprehension" />
       <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\PythonProject\Section4_Python 3 intermediário (com programação procedural e funcional)\Section4_Aulas" />
       <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\PythonProject\Section4_Python 3 intermediário (com programação procedural e funcional)\Section4_Aulas\Dicionarios" />
       <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\pythonProject1\Section3_Python 3 básico (com lógica de programação)\Section3_Aulas" />
       <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mapeamento_de_dados">
+  <component name="RunManager" selected="Python.mapeamento_de_dados (1)">
     <configuration name="empac_desempac_args_kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,28 +123,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="intro (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UdemyPythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda/intro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="intro (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +145,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mapeamento_de_dados (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UdemyPythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension/mapeamento_de_dados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mapeamento_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,7 +180,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda/mapeamento_de_dados.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\PythonProject\Section4_Python 3 intermediário (com programação procedural e funcional)\Section4_Aulas\List_Comprehension\mapeamento_de_dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mapeamento_de_dados" />
+        <item itemvalue="Python.mapeamento_de_dados (1)" />
         <item itemvalue="Python.intro (2)" />
+        <item itemvalue="Python.mapeamento_de_dados" />
         <item itemvalue="Python.empac_desempac_args_kwargs" />
         <item itemvalue="Python.funcoes_lambda" />
-        <item itemvalue="Python.intro (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +218,7 @@
       <workItem from="1691745405750" duration="48944000" />
       <workItem from="1692695785733" duration="310000" />
       <workItem from="1692696109964" duration="3086000" />
+      <workItem from="1693214305745" duration="4136000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -308,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692664164270</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1693214397245</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693214397245</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +340,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$exemplo_de_uso.coverage" NAME="exemplo_de_uso Coverage Results" MODIFIED="1692353141561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$escopo_func.coverage" NAME="escopo_func Coverage Results" MODIFIED="1691578257937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$mapeamento_de_dados__1_.coverage" NAME="mapeamento_de_dados (1) Coverage Results" MODIFIED="1693217575542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$closure_func.coverage" NAME="closure_func Coverage Results" MODIFIED="1691712619777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro_a_func.coverage" NAME="intro_a_func Coverage Results" MODIFIED="1691487035640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$metodos_dicionarios.coverage" NAME="metodos_dicionarios Coverage Results" MODIFIED="1692004053591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Dicionarios" />
@@ -349,7 +358,7 @@
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$empac_desempac_args_kwargs.coverage" NAME="empac_desempac_args_kwargs Coverage Results" MODIFIED="1692665287349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$operadores.coverage" NAME="operadores Coverage Results" MODIFIED="1692351521544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$peculiaridades_set.coverage" NAME="peculiaridades_set Coverage Results" MODIFIED="1692350596728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
-    <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro__2_.coverage" NAME="intro (2) Coverage Results" MODIFIED="1692697088254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro__2_.coverage" NAME="intro (2) Coverage Results" MODIFIED="1693215414809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$lista_compras.coverage" NAME="lista_compras Coverage Results" MODIFIED="1690483790193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/Listas" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$funcoes.coverage" NAME="funcoes Coverage Results" MODIFIED="1691709148706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Exercicios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$funcoes_lambda.coverage" NAME="funcoes_lambda Coverage Results" MODIFIED="1692612380992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda" />
@@ -357,6 +366,6 @@
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro_dicionarios.coverage" NAME="intro_dicionarios Coverage Results" MODIFIED="1691751377018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Dicionarios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$if_umalinha.coverage" NAME="if_umalinha Coverage Results" MODIFIED="1690483782334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/If_Float_Tuple" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$conjuntos_encontre_duplicado.coverage" NAME="conjuntos_encontre_duplicado Coverage Results" MODIFIED="1692450861542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Exercicios" />
-    <SUITE FILE_PATH="coverage/UdemyPythonCourse$mapeamento_de_dados.coverage" NAME="mapeamento_de_dados Coverage Results" MODIFIED="1692699532673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$mapeamento_de_dados.coverage" NAME="mapeamento_de_dados Coverage Results" MODIFIED="1693215325249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda" />
   </component>
 </project>
