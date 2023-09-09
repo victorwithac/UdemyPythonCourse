@@ -1,3 +1,4 @@
+
 nome = ('victor', 'josé', 'maria')
 print(type(nome))
 print(nome[-1])

@@ -1,0 +1,17 @@
+//true
+//123.23
+//null
+//"string"
+//[]
+//{}
+
+{
+  "name": "Victor",
+  "lastname": "Marques",
+  "age": 25,
+  "addresses": [
+    {"line1": "assis brasil"},
+    {"line1": "sertorio"}
+  ]
+}
+
