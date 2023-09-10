@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fe6056f-a103-436a-b2f9-d41622d9e6cd" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes/intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/example.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/If_Float_Tuple/tuplas.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/If_Float_Tuple/tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes/intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +228,7 @@
       <workItem from="1693743254125" duration="239000" />
       <workItem from="1693743507447" duration="44685000" />
       <workItem from="1694262116365" duration="765000" />
-      <workItem from="1694262925258" duration="5131000" />
+      <workItem from="1694262925258" duration="7914000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -416,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694126648942</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update">
+      <option name="closed" value="true" />
+      <created>1694269017550</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269017551</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +456,7 @@
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$high_order_functions.coverage" NAME="high_order_functions Coverage Results" MODIFIED="1691709507629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$resumo.coverage" NAME="resumo Coverage Results" MODIFIED="1693654299761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro_conjuntos.coverage" NAME="intro_conjuntos Coverage Results" MODIFIED="1692177492363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
-    <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro__1_.coverage" NAME="intro (1) Coverage Results" MODIFIED="1694268571010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro__1_.coverage" NAME="intro (1) Coverage Results" MODIFIED="1694384687804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$for_dentro_de_for.coverage" NAME="for_dentro_de_for Coverage Results" MODIFIED="1693500137140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$dicionarios.coverage" NAME="dicionarios Coverage Results" MODIFIED="1691752095606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Dicionarios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$metodos_uteis.coverage" NAME="metodos_uteis Coverage Results" MODIFIED="1692351075418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
