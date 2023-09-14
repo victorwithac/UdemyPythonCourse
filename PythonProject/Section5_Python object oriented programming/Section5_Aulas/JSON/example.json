@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Victor",
+    "lastname":  "Marques",
+    "age": 25,
+    "addresses": [
+      {"line1": "Assis Brasil"},
+      {"line1": "Sertório"}
+    ]
+  },
+
+  {"name": "José", "lastname":  "Oliveira"},
+  {"name": "Helena", "lastname":  "Amaral"}
+]
