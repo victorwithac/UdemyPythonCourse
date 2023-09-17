@@ -26,8 +26,18 @@ person = [
     },
 ]
 
-BASE_DIR = os.path.dirname(__file__)
+FILE_NAME = os.path.basename(__file__)
+BASE_DIR = os.path.dirname(__file__) #return only the path of the file
 SAVE_TO = os.path.join(BASE_DIR, 'file-python.json')
 
-with open(SAVE_TO, 'w') as file:
-    json.dump(person, file, indent=2)
+
+print(BASE_DIR) #return only the path of the file
+print(__file__)#return the path and the name of the file
+print(FILE_NAME)
+
+# with open(SAVE_TO, 'w') as file:
+#     json.dump(person, file, indent=2)
+#
+# print(json.dumps(person, indent=2))
+
+
