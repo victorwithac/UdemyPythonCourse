@@ -1,14 +1,30 @@
 [
   {
-    "name": "Victor",
-    "lastname":  "Marques",
+    "name": "Maria",
+    "lastname": "Vieira",
     "age": 25,
-    "addresses": [
-      {"line1": "Assis Brasil"},
-      {"line1": "Sertório"}
-    ]
+    "ative": false,
+    "grades": [
+      "A",
+      "A+"
+    ],
+    "phones": {
+      "residencial": "00 0000-0000",
+      "cellphone": "00 0000-0000"
+    }
   },
-
-  {"name": "José", "lastname":  "Oliveira"},
-  {"name": "Helena", "lastname":  "Amaral"}
+  {
+    "name": "Maria",
+    "lastname": "Vieira",
+    "age": 25,
+    "ative": false,
+    "grades": [
+      "A",
+      "A+"
+    ],
+    "phones": {
+      "residencial": "00 0000-0000",
+      "cellphone": "00 0000-0000"
+    }
+  }
 ]
