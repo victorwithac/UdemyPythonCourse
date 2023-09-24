@@ -8,7 +8,8 @@ class Person:
         return Person.current_year - self.age
 
 p1 = Person('Victor', 25)
-del p1.name
+print(p1)
+# del p1.name
 p1.name = 'Levi'
 # print(p1.__dict__)
 p1.__dict__['lastname'] = 'Marques'

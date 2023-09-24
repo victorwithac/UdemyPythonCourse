@@ -7,6 +7,8 @@ class Car:
     def speed_up(self):
         print(f'{self.name} is accelerating ')
 
+
+
 model_1 = Car('civic')
 print(model_1.name)
 model_2 = Car('city')
