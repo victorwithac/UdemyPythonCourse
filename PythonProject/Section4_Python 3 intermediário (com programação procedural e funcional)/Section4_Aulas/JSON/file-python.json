@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Maria",
+    "lastname": "Vieira",
+    "age": 25,
+    "ative": false,
+    "grades": [
+      "A",
+      "A+"
+    ],
+    "phones": {
+      "residencial": "00 0000-0000",
+      "cellphone": "00 0000-0000"
+    }
+  },
+  {
+    "name": "Joana",
+    "lastname": "Amaral",
+    "age": 25,
+    "ative": false,
+    "grades": [
+      "A",
+      "A+"
+    ],
+    "phones": {
+      "residencial": "00 0000-0000",
+      "cellphone": "00 0000-0000"
+    }
+  }
+]
