@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fe6056f-a103-436a-b2f9-d41622d9e6cd" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/again.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/class_in_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/class_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/static_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/again_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/__dict__or_var().py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/__dict__or_var().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/instance_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/instance_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/JSON/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/JSON/module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/again.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/again.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/class_in_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/class_in_json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,29 +88,7 @@
       <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\PythonProject\Section5_Python object oriented programming\Section5_Aulas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.again">
-    <configuration name="__dict__or_var()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UdemyPythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/__dict__or_var().py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.static_methods">
     <configuration name="again" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_in_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="again_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +124,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/class_in_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios/again_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="class_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/init.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/class_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +155,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="instance_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UdemyPythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/JSON/module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="static_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +190,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/instance_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/static_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.static_methods" />
+        <item itemvalue="Python.class_methods" />
+        <item itemvalue="Python.again_2" />
         <item itemvalue="Python.again" />
-        <item itemvalue="Python.class_in_json" />
-        <item itemvalue="Python.instance_methods" />
-        <item itemvalue="Python.init" />
-        <item itemvalue="Python.__dict__or_var()" />
+        <item itemvalue="Python.module" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +245,12 @@
       <workItem from="1695422723406" duration="187000" />
       <workItem from="1695422923039" duration="321000" />
       <workItem from="1695488383432" duration="2317000" />
-      <workItem from="1695491182431" duration="12039000" />
+      <workItem from="1695491182431" duration="19570000" />
+      <workItem from="1695768455802" duration="22000" />
+      <workItem from="1695768487211" duration="11000" />
+      <workItem from="1695777777300" duration="5439000" />
+      <workItem from="1695858578488" duration="36000" />
+      <workItem from="1695858624234" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -502,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695512937126</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update">
+      <option name="closed" value="true" />
+      <created>1695596389733</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1695596389733</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,6 +546,7 @@
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$__dict__or_var____1_.coverage" NAME="__dict__or_var() (1) Coverage Results" MODIFIED="1694688593428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$Isinstace.coverage" NAME="intro Coverage Results" MODIFIED="1693763823883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro.coverage" NAME="intro Coverage Results" MODIFIED="1694865669306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Module os" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$again_2.coverage" NAME="again_2 Coverage Results" MODIFIED="1695807912333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$isistance_in_lists.coverage" NAME="isistance_in_lists Coverage Results" MODIFIED="1693763869074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Exercicios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$convert_words_uppercase.coverage" NAME="convert_words_uppercase Coverage Results" MODIFIED="1693744772303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Exercicios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$high_order_functions.coverage" NAME="high_order_functions Coverage Results" MODIFIED="1691709507629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
@@ -551,15 +566,17 @@
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro__2_.coverage" NAME="intro (2) Coverage Results" MODIFIED="1693787022863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Dir_Hasattr_Getattr" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$lista_compras.coverage" NAME="lista_compras Coverage Results" MODIFIED="1690483790193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/Listas" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$with_open.coverage" NAME="with_open Coverage Results" MODIFIED="1694988408783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Creating Python Files" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$static_methods.coverage" NAME="static_methods Coverage Results" MODIFIED="1695921581575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$funcoes_lambda.coverage" NAME="funcoes_lambda Coverage Results" MODIFIED="1692612380992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1695031235468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/JSON" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$intro_dicionarios.coverage" NAME="intro_dicionarios Coverage Results" MODIFIED="1691751377018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Dicionarios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$conjuntos_encontre_duplicado.coverage" NAME="conjuntos_encontre_duplicado Coverage Results" MODIFIED="1692450861542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Exercicios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$mapeamento_de_dados.coverage" NAME="mapeamento_de_dados Coverage Results" MODIFIED="1693215325249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao_Lambda" />
-    <SUITE FILE_PATH="coverage/UdemyPythonCourse$module.coverage" NAME="module Coverage Results" MODIFIED="1694863221771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/JSON" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$module.coverage" NAME="module Coverage Results" MODIFIED="1695597177527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/JSON" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$exemplo_de_uso.coverage" NAME="exemplo_de_uso Coverage Results" MODIFIED="1692353141561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$filtro_dados.coverage" NAME="filtro_dados Coverage Results" MODIFIED="1693474989166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/List_Comprehension" />
-    <SUITE FILE_PATH="coverage/UdemyPythonCourse$class_in_json.coverage" NAME="class_in_json Coverage Results" MODIFIED="1695594697990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$class_in_json.coverage" NAME="class_in_json Coverage Results" MODIFIED="1695596916929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$class_methods.coverage" NAME="class_methods Coverage Results" MODIFIED="1695920573126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$escopo_func.coverage" NAME="escopo_func Coverage Results" MODIFIED="1691578257937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$closure_func.coverage" NAME="closure_func Coverage Results" MODIFIED="1691712619777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcoes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$__dict__.coverage" NAME="__dict__or_var() Coverage Results" MODIFIED="1694599144869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes" />
@@ -579,7 +596,7 @@
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$instance_states.coverage" NAME="instance_states Coverage Results" MODIFIED="1694595451996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$__dict__or_var__.coverage" NAME="__dict__or_var() Coverage Results" MODIFIED="1695564820908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$instances_methods.coverage" NAME="instances_methods Coverage Results" MODIFIED="1694425662240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Classes" />
-    <SUITE FILE_PATH="coverage/UdemyPythonCourse$again.coverage" NAME="again Coverage Results" MODIFIED="1695595241488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios" />
+    <SUITE FILE_PATH="coverage/UdemyPythonCourse$again.coverage" NAME="again Coverage Results" MODIFIED="1695807907042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Exercicios" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$yield_from.coverage" NAME="yield_from Coverage Results" MODIFIED="1693907638185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Iterables_Iterators" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$empac_desempac_args_kwargs.coverage" NAME="empac_desempac_args_kwargs Coverage Results" MODIFIED="1692665287349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Funcao Lambda" />
     <SUITE FILE_PATH="coverage/UdemyPythonCourse$create_a_json_file.coverage" NAME="create_a_json_file Coverage Results" MODIFIED="1695492649295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Exercicios/JSON" />

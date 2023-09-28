@@ -60,7 +60,7 @@ with open(SAVE_TO, 'r') as file:
     # print()
     # print(person_2)
     # print()
-    # print(person_2['name'])
+    # print(person['name'])
     # print(person_2['grades'])
 
     for persons in person_2:

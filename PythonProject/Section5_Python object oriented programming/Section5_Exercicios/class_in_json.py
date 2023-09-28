@@ -12,7 +12,11 @@ class Person:
 
 
 p1 = Person('Victor', 25)
+p2 = Person('Andre', 22)
+p3 = Person('Maria', 34)
 person_dict = p1.to_dict()
+person_dict = p2.to_dict()
+person_dict = p3.to_dict()
 
 
 
