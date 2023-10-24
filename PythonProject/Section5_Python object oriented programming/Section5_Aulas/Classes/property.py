@@ -11,5 +11,17 @@
 
 class Pen:
     def __init__(self, color):
-        self.color = color
-wor
+        self.some_color = color
+
+
+    @property
+    def color(self):
+        return self.some_color
+
+
+
+pen = Pen('Blue')
+print(pen.color)
+print(pen.color)
+print(pen.color)
+
