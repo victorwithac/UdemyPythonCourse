@@ -1,34 +1,25 @@
 class Pen:
     def __init__(self, color):
-        # self.paint_color = color
-        self.color = color
-        #whenever there is an underline, it means it should not be modified
+        self._color = color #whenever there is an underline, it means it should not be modified
 
 
-    # @property
-    # def color(self):
-    #     print('Property')
-    #     return self.paint_color
+    @property
+    def color(self):
+        return self._color
 
-# def show_pen(pen):
-#     return pen.color
+    @color.setter
+    def color(self, value):
+        if value == 'Red':
+            raise ValueError('Don`t use this color')
+        self._color = value
 
-    def get_color(self):
-        return self.color
-
-
-
-pen = Pen('Black')
-var = pen.get_color()
-print(var)
 
 # pen = Pen('Blue')
-
+pen = Pen('Black')
 # cap = Pen('Green')
 #
-# print(pen.color)
 # print(cap.color)
 # print(pen.color)
+pen.color = 'Yellow'
 
-# show_pen(pen)
-
+print(pen.color)
