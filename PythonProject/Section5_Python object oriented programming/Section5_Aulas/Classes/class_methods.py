@@ -22,13 +22,14 @@ class Person:
     def create_with_50_years(cls, name):
         return cls(name, 50)
 
-    @classmethod
+    @classmethod #makes it possible for me to call class without using self,
+    #but i have to pass the class itself 'cls'.
     def create_without_name(cls, age):
         return cls('Anonimous', age)
 
 
 
-
+print(Person.year)
 # p1 = Person('Victor', 25)
 p2 = Person.create_with_50_years('Helena')
 print(p2.name, p2.age)
