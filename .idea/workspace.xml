@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fe6056f-a103-436a-b2f9-d41622d9e6cd" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/class_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/class_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/uml_relation_between_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/uml_relation_between_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Exercicios/gerador_de_cpf.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Exercicios/gerador_de_cpf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos/exemplo_de_uso.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos/exemplo_de_uso.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +32,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="c1a0dbaf-8131-430e-9c97-803e72d0e041" />
+        <option name="accountId" value="ead0194e-86b2-4512-a8f3-2b87a765df1a" />
         <option name="url" value="https://github.com/victorwithac/UdemyPythonCourse.git" />
       </UrlAndAccount>
     </option>
@@ -50,6 +50,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2TAQIEjWceEEcYK577fWubMG2lQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,17 +64,22 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.class_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo_de_uso.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gerador_de_cpf.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;idea.background.frame&quot;: &quot;C:\\Users\\victo\\OneDrive\\Imagens\\Capturas de tela\\Captura de tela 2023-07-25 182405.png,0,scale,center&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documentos/GitHub/UdemyPythonCourse&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -89,9 +97,10 @@
       <recent name="C:\Users\victo\OneDrive\Documentos\GitHub\UdemyPythonCourse\PythonProject\Section5_Python object oriented programming\Section5_Aulas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.class_methods">
+  <component name="RunManager" selected="Python.gerador_de_cpf">
     <configuration name="class_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -114,6 +123,7 @@
     </configuration>
     <configuration name="encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -134,20 +144,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="property_setter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exemplo_de_uso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section5_Python object oriented programming/Section5_Aulas/Classes/property_setter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section4_Python 3 intermediário (com programação procedural e funcional)/Section4_Aulas/Conjuntos/exemplo_de_uso.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,20 +167,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gerador_de_cpf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/If_Float_Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Aulas/If_Float_Tuple/tuplas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/Section3_Python 3 básico (com lógica de programação)/Section3_Exercicios/gerador_de_cpf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,6 +192,7 @@
     </configuration>
     <configuration name="uml_relation_between_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UdemyPythonCourse" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -202,13 +215,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gerador_de_cpf" />
+        <item itemvalue="Python.exemplo_de_uso" />
         <item itemvalue="Python.class_methods" />
         <item itemvalue="Python.uml_relation_between_classes" />
         <item itemvalue="Python.encapsulation" />
-        <item itemvalue="Python.tuplas" />
-        <item itemvalue="Python.property_setter" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -270,6 +290,14 @@
       <workItem from="1700437841062" duration="1232000" />
       <workItem from="1700472746599" duration="6957000" />
       <workItem from="1700558797892" duration="2395000" />
+      <workItem from="1701303620570" duration="20000" />
+      <workItem from="1702129939966" duration="595000" />
+      <workItem from="1703341310642" duration="26000" />
+      <workItem from="1709595681223" duration="35000" />
+      <workItem from="1709595794309" duration="192000" />
+      <workItem from="1709596011302" duration="11000" />
+      <workItem from="1709597112288" duration="97000" />
+      <workItem from="1709912873894" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />

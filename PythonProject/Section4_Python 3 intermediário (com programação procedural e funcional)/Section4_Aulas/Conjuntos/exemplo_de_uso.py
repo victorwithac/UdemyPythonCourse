@@ -1,10 +1,7 @@
-letras = set()
-while True:
-    letra = input('Digite: ')
-    letras.add(letra.lower())
+print('Hello World')
+string = 'something'
+print(string)
 
-    if 'l' in letras:
-        print('PARABÉNS')
-        break
-
-    print(letras)
+if 1 > 0:
+    print('this')
+    
