@@ -23,5 +23,10 @@ while True:
         print(f'Total de {numero_tentativas} tentativas.')
         break
 
-if 1 > 0:
+string = 1
+print('Hello World')
+if 0>0:
+    print('Hello World'
+
+if 0>0:
     print('Hello World')
