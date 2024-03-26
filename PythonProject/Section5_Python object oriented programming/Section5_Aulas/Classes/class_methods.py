@@ -1,4 +1,4 @@
-#Class methods and factories
+# Class methods and factories
 
 
 
@@ -45,3 +45,17 @@ print(p4.name, p4.age)
 
 # print(Person.year)
 # Person.class_method()
+
+
+
+# class Person:
+#     def __init__(self, name, lastname):
+#         self.name = name
+#         self.lastname = lastname
+#
+#
+# p1 = Person('Victor', 'Marques')
+#
+# print(p1.name)
+# print(p1.lastname)
+
